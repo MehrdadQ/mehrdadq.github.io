@@ -8,7 +8,7 @@
     "build": "next build && next export",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "next build && next export && git add out/ && git commit -m \"Deploy gh-pages\" && git subtree push --prefix out origin gh-pages"
+    "deploy": "next build && next export && git add out/ && git commit -m \"Deploy gh-pages\" && git subtree push -f --prefix out origin gh-pages"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
