@@ -34,7 +34,7 @@ const Hero = (props) => (
           </TypedText>
         </SectionTitle>
         <SectionText>
-          I'm a second year Computer Science student at UofT Scarborough
+          I'm an incoming third year Computer Science student at UofT Scarborough
           specializing in Software Engineering 👩‍💻. My main interests lie in
           Software and Web development 🌐. I am always happy to meet new people,
           so feel free to{" "}

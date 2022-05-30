@@ -95,7 +95,8 @@ export const TypedText = styled.h2`
 `;
 
 export const SectionText = styled.p`
-  max-width: 900px;
+  width: 720px;
+  max-width: 930px;
   font-size: 24px;
   line-height: 40px;
   font-weight: 300;
